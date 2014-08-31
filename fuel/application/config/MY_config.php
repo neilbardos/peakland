@@ -1,6 +1,6 @@
 <?php 
 // used for development and testing
-$config['dev_email'] = '';
+$config['dev_email'] = 'neil.bardos@gmail.com';
 
 
 // date format used with date helpers

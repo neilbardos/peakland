@@ -1,0 +1,27 @@
+s:905:"<!--__FUEL_MARKER__0--><!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="utf-8">
+ 	<title>
+		<!--__FUEL_MARKER__1-->Home : Home	</title>
+
+	<meta name="keywords" content="<!--__FUEL_MARKER__2-->">
+	<meta name="description" content="<!--__FUEL_MARKER__3-->">
+
+	<link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
+	<link href="/assets/css/main.css?c=" media="all" rel="stylesheet"/>
+	
+</head>
+<body>
+	<div class="page">
+		<div class="wrapper">
+			
+<ul id="menu">
+	<li class="first"><a href="http://peakland/about">About</a></li>
+	<li class="last active"><a href="http://peakland/home">Home</a></li>
+</ul>
+			<header class="page_header">
+				<div class="logo"><object type="image/svg+xml" width="160" height="145" data="/assets/images/_template_icons.svg#fuel"></object></div>
+				<h1><!--__FUEL_MARKER__4--></h1>
+			</header>		
+this is the home page";
