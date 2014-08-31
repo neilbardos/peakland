@@ -5,7 +5,7 @@
 
 2. Download and install MyySQL Workbench: [Download Link](http://www.mysql.com/products/workbench/)
 
-3. Download the zip file of this project. Download button located at the lowe right of the page.
+3. Download the zip file of this project. Download button located at the lower right of the page.
 
 4. Extract the file to C://xampp/htdocs/
 
