@@ -42,26 +42,9 @@
 </div>
 <div class="container-fluid main-content-div">
     <div class="container container-fluid-no-padding">
-    	<div class="col-md-8 about-div">
-    		<h1 class="about-hdr">About Us</h1>
-    		<p>
-				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at.
-			</p>
-			<p>
-				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at.
-			</p>
-			<p>
-				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit varius mi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dui. Fusce feugiat malesuada odio. Morbi nunc odio, gravida at.
-			</p>
-    	</div>
-    	<div class="col-md-4 contact-form-div">
-    	<h4><i class="fa fa-envelope"></i> Send us a message</h4>
-    		<?php
-    			if($this->session->flashdata('success')){
-    				echo '<div class="alert alert-success">Thank you for contacting us. We will get back to you shortly.</div>';
-    			}
-    		?>
-    		<?php echo $form; ?>
+    	<div class="col-md-12 about-div">
+    		<h1 class="about-hdr">Schedule</h1>
+    		<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=peaklandproperties%40gmail.com&amp;color=%23BE6D00&amp;ctz=Asia%2FManila" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
     	</div>
         
     </div>

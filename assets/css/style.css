@@ -372,3 +372,12 @@ h1.about-hdr{margin-top: 0;}
 @media (min-width: 1170px) and (max-width:1171px) {
 	.projects-div div div.projects-ind-div{width: 30%}
 }
+
+/*for google calendar*/
+.view-container-border {
+	background-color: #F79721;
+}
+.mv-daynames-table {
+	background: #F79721;
+	color: #fff;
+}
