@@ -13,6 +13,6 @@
 
 6. Browse the web application using google chrome and type: http://localhost/peakland
 
-7. You can browse the admin pannel by typing http://localhost/peakland/fuel. Username and password: admin
+7. You can browse the admin pannel by typing http://localhost/peakland/fuel. 
 
 __Developed by Neil Bardos__
